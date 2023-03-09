@@ -1,0 +1,34 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "inicio de prueba de recordatorios",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "GuardarRecordatoriosIntent",
+          "slots": [],
+          "samples": [
+            "Guardar los recordatorios de mis medicamentos"
+          ]
+        }
+      ],
+      "types": []
+    }
+  },
+  "version": "2"
+}
