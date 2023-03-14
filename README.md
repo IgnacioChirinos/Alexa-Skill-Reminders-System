@@ -1,4 +1,7 @@
-# Alexa-Skill-Reminders-System
-This Repository helps the creation of reminders on Alexa Skill,
+# Alexa Multiple Reminders Creation
+Any recomendations are well recive
+
+##Que se necesita
+*  [Amazon Developer Account](http://developer.amazon.com/alexa)
 
 
